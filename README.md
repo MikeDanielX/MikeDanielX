@@ -1,28 +1,68 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+
 <h1 align="center">Hi 👋, I'm Mike Daniel</h1>
-<h3 align="center">Im A Salesforce Developer</h3>
+<div align="center">
+  
+[![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](www.mikedanielx.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-daniel-388a6a206/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikeDanielX)
+
+</div>
+
+<br> </br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikedanielx&label=Profile%20views&color=0e75b6&style=flat" alt="mikedanielx" /> </p>
+## Tech Stack 🛠️
 
-- 🌱 I’m currently learning **Javascript, React Native**
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00C7B7?style=flat-square&logo=robot&logoColor=white)
 
-- 💬 Ask me about **Web, Python**
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 📫 How to reach me **Michealdaniel72@gmail.com**
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-- ⚡ Fun fact **I couldn't speak till i was 5, then spoke 3 languages at the same time**
+### AWS Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![CodeDeploy](https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
+## Expertise 🎯
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mike-daniel-388a6a206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mike-daniel-388a6a206/" height="30" width="40" /></a>
-</p>
+- **AI Integration**
+  - LLM Implementation & Fine-tuning
+  - AI Agent Development
+  - Custom LangChain Solutions
+  - OpenAI API Integration
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+- **System Architecture**
+  - Real-time Processing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikedanielx&show_icons=true&locale=en&layout=compact" alt="mikedanielx" /></p>
+- **Cloud & DevOps**
+  - AWS Infrastructure Management
+  - Containerization & Orchestration
+  - CI/CD Implementation
+  - Serverless Architecture
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikedanielx&show_icons=true&locale=en" alt="mikedanielx" /></p>
+- **Development**
+  - Full-Stack Applications
+  - Web3 Solutions
+  - API Design
+  - Cloud Infrastructure
+
+## Current Focus 🌱
+
+- Advanced LLM Applications
+- AI Agent Architectures
+- Distributed Systems at Scale
+
