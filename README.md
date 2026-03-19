@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Mike Daniel</h1>
 <div align="center">
-  
+
+<!-- Esto es para si alguna vez quieres poner botones de redireccion jejeje 
 [![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](www.mikedanielx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-daniel-388a6a206/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikeDanielX)
-
+-->
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
